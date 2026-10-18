@@ -1,7 +1,7 @@
 ## Interface: 20505
 ## Title: Auction Sold Sound
 ## Notes: Make a sound notification when an auction sells.
-## Version: 1.0.0
+## Version: 1.1.0
 ## DefaultState: enabled
 ## Author: CassiniEU @ Twitch.com
 ## SavedVariablesPerCharacter: AuctionSoldSound_Options
@@ -9,5 +9,3 @@
 AuctionSoldSound.lua
 
 Modules\SlashCommands.lua
-
-Dependencies\AddonUtils.lua
